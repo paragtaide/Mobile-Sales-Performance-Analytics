@@ -1,0 +1,7 @@
+green colour:   #5AE6D2
+
+Blue green :	#36AB61
+
+Dark green :	#195D19
+
+Light green : 	#BDFDC0
